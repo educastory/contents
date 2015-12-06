@@ -33,8 +33,8 @@ This file is a zip archive includes contents of a lesson. <i>no</i> have to be r
 | answer2_1.txt | The candidate of answer for question2. This is a correct answer. |
 | answer2_2.txt | The candidate of answer for question2. This is a wrong answer. |
 | first_narration.txt | The first narration text |
-| last_message.jpg | The last narration text |
-| last_message.txt | An image for the last narration |
+| last_message.jpg | An image for the last narration |
+| last_message.txt | The last narration text |
 | narration1.jpg | An image for narration1.txt |
 | narration1.txt | The narration text for neither question1 nor question2 is corrent. |
 | narration2.jpg | An image for narration2.txt |
